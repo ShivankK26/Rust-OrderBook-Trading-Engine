@@ -1,0 +1,72 @@
+{
+  "buy": {
+    "60577.30": [
+      {
+        "order_id": "15",
+        "account_id": "2",
+        "amount": "1.57600",
+        "price": "60577.30",
+        "side": "BUY"
+      },
+      {
+        "order_id": "18",
+        "account_id": "2",
+        "amount": "0.47600",
+        "price": "60577.30",
+        "side": "BUY"
+      },
+      {
+        "order_id": "19",
+        "account_id": "2",
+        "amount": "1.00000",
+        "price": "60577.30",
+        "side": "BUY"
+      }
+    ],
+    "61577.30": [
+      {
+        "order_id": "12",
+        "account_id": "2",
+        "amount": "2.00000",
+        "price": "61577.30",
+        "side": "BUY"
+      }
+    ],
+    "62877.30": [
+      {
+        "order_id": "13",
+        "account_id": "2",
+        "amount": "4.50000",
+        "price": "62877.30",
+        "side": "BUY"
+      },
+      {
+        "order_id": "14",
+        "account_id": "2",
+        "amount": "3.50000",
+        "price": "62877.30",
+        "side": "BUY"
+      }
+    ]
+  },
+  "sell": {
+    "65860.30": [
+      {
+        "order_id": "16",
+        "account_id": "2",
+        "amount": "1.58900",
+        "price": "65860.30",
+        "side": "SELL"
+      }
+    ],
+    "66490.50": [
+      {
+        "order_id": "17",
+        "account_id": "2",
+        "amount": "2.67600",
+        "price": "66490.50",
+        "side": "SELL"
+      }
+    ]
+  }
+}
